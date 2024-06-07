@@ -7,11 +7,13 @@
 </p>
 
 - 🏢 I'm a Software Engineer
-- 👨‍💻 As a Backend Dev, I'm constantly learning and exploring new technologies to improve my skills.
-- 👨‍💻 Check out my linked in at https://www.linkedin.com/in/osamasowidan/
+- 👨‍💻 As a Backend Dev, I constantly learn and explore new technologies to improve my skills.
+- 👨‍💻 Check out my LinkedIn at https://www.linkedin.com/in/osamasowidan/
 <br/>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
+
+<br/>
 
 <div align="center">
 
