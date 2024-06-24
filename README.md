@@ -6,29 +6,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=700&pause=1000&color=2196F3&center=true&width=435&lines=ٍSoftware+Engineer;Always+Learning+New+Things!" alt="Typing SVG" />
 </p>
 
-- 🏢 I'm a Software Engineer
-- 👨‍💻 As a Backend Dev, I constantly learn and explore new technologies to improve my skills.
+- 👨‍💻 As a Software Engineer, I constantly learn and explore new technologies to improve my skills.
 - 👨‍💻 Check out my LinkedIn at https://www.linkedin.com/in/osamasowidan/
 <br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github activity </b>
 
 <br/>
 
 <div align="center">
-
-<a href="https://github.com/sowidan1">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sowidan1&theme=blueberry" width="380"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/sowidan1/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sowidan1&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-</a>
-
+  <img src="https://streak-stats.demolab.com?user=sowidan1&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=10&order=3" height="150" alt="streak graph"  />
+  <br/>
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sowidan1&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
