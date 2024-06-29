@@ -7,7 +7,7 @@
 </p>
 
 - 👨‍💻 As a Software Engineer, I constantly learn and explore new technologies to improve my skills.
-- 👨‍💻 Check out my Linkedin at https://www.linkedin.com/in/osamasowidan/
+- 👨‍💻 Check out my <a href="https://www.linkedin.com/in/osamasowidan/">Linkedin</a>
 <br/>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github activity </b>
