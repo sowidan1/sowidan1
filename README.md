@@ -15,8 +15,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sowidan1&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=10&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sowidan1&theme=outrun&hide_border=false" alt="sowidan1's GitHub Stats" />
   <br/>
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sowidan1&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sowidan1&radius=16&theme=outrun&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
