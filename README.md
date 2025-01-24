@@ -1,22 +1,33 @@
-<h3 align="center">
-  Welcome to Osama Sowidan's profile!
-</h3>
+# Hello, I'm **Osama Sowidan**  
+💻 **Backend Developer** | 🔒 **Security Enthusiast** | ⚙️ **Tech Optimizer**
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=700&pause=1000&color=2196F3&center=true&width=435&lines=ٍSoftware+Engineer;Always+Learning+New+Things!" alt="Typing SVG" />
+I'm a passionate **Backend Developer** dedicated to crafting **scalable**, **efficient**, and **secure** applications. With a deep love for solving complex problems and optimizing workflows, I strive to deliver solutions that drive success.  
+
+---
+
+## 📈 **What I Do Best**  
+- **Backend Development**: Building robust and high-performance systems using **PHP Laravel** and cutting-edge backend technologies.  
+- **Database Mastery**: Specializing in **query optimization**, **data integrity**, and scalable **database design**.  
+- **Cybersecurity Advocate**: Mitigating vulnerabilities and implementing **secure coding practices** to protect applications.  
+
+---
+
+## 🔧 **Technologies & Tools**  
+
+<p>
+  <a href="https://skillicons.dev">
+    <!-- Programming Languages & Frameworks -->
+    <img src="https://skillicons.dev/icons?i=php,laravel,javascript,java,bash,powershell&theme=light" alt="Programming Languages & Frameworks" />
+    <!-- Databases -->
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,redis&theme=light" alt="Databases" />
+    <!-- DevOps & Version Control -->
+    <img src="https://skillicons.dev/icons?i=docker,git,github&theme=light" alt="DevOps & Version Control" />
+    <!-- Frontend & Backend Tools -->
+    <img src="https://skillicons.dev/icons?i=bootstrap,firebase&theme=light" alt="Frontend & Backend Tools" />
+    <!-- Development Tools -->
+    <img src="https://skillicons.dev/icons?i=vscode,phpstorm,postman,linux&theme=light" alt="Development Tools" />
+  </a>
 </p>
 
-- 👨‍💻 As a Software Engineer, I constantly learn and explore new technologies to improve my skills.
-- 👨‍💻 Check out my <a href="https://www.linkedin.com/in/osamasowidan/">Linkedin</a>
-<br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github activity </b>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sowidan1&theme=outrun&hide_border=false" alt="sowidan1's GitHub Stats" />
-  <br/>
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sowidan1&radius=16&theme=outrun&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+---
