@@ -16,18 +16,8 @@ I'm a passionate **Backend Developer** dedicated to crafting **scalable**, **eff
 
 <p>
   <a href="https://skillicons.dev">
-    <!-- Programming Languages & Frameworks -->
-    <img src="https://skillicons.dev/icons?i=php,laravel,javascript,java,bash,powershell&theme=light" alt="Programming Languages & Frameworks" />
-    <!-- Databases -->
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,redis&theme=light" alt="Databases" />
-    <!-- DevOps & Version Control -->
-    <img src="https://skillicons.dev/icons?i=docker,git,github&theme=light" alt="DevOps & Version Control" />
-    <!-- Frontend & Backend Tools -->
-    <img src="https://skillicons.dev/icons?i=bootstrap,firebase&theme=light" alt="Frontend & Backend Tools" />
-    <!-- Development Tools -->
-    <img src="https://skillicons.dev/icons?i=vscode,phpstorm,postman,linux&theme=light" alt="Development Tools" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,javascript,java,bash,powershell,mysql,sqlite,redis,docker,githubactions,git,md,aws,github,bootstrap,html,css,cpp,cs,spring,maven,jquery,firebase,vscode,phpstorm,postman,linux&theme=light" alt="Technologies & Tools" />
   </a>
 </p>
-
 
 ---
