@@ -16,7 +16,7 @@ I'm a passionate **Backend Developer** dedicated to crafting **scalable**, **eff
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,javascript,java,bash,powershell,mysql,sqlite,redis,docker,githubactions,git,md,aws,github,bootstrap,html,css,cpp,cs,spring,maven,jquery,firebase,vscode,phpstorm,postman,linux&theme=light" alt="Technologies & Tools" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,javascript,nodejs,java,bash,vim,neovim,powershell,mysql,sqlite,redis,docker,githubactions,git,md,aws,github,ubuntu,bootstrap,html,css,cpp,cs,spring,maven,npm,jquery,firebase,vscode,phpstorm,postman,linux&theme=light" alt="Technologies & Tools" />
   </a>
 </p>
 
