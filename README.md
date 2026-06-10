@@ -21,3 +21,9 @@ I'm a passionate **Backend Developer** dedicated to crafting **scalable**, **eff
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sowidan1" alt="GitHub Streak" />
+</p>
+
+---
